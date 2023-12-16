@@ -1,3 +1,4 @@
+BLOG-API ENDPOINTS
 Here are few things that you should know about this project😊
  This ia social media backend REST API built with Node.js, Express, and MongoDB. Underneath are some of the terms with their functions listed below:
 
